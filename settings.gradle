@@ -1,0 +1,2 @@
+include ':app', ':picassodemo'
+rootProject.name='ShoppingCarDemo'
